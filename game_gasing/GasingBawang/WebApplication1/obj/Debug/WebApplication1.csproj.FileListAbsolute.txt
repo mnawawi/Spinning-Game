@@ -1,0 +1,11 @@
+C:\WIP\Beginning HTML 5 Game Development With Quintus\QuintusShooter\WebApplication1\bin\WebApplication1.dll
+C:\WIP\Beginning HTML 5 Game Development With Quintus\QuintusShooter\WebApplication1\bin\WebApplication1.pdb
+C:\WIP\Beginning HTML 5 Game Development With Quintus\QuintusShooter\WebApplication1\obj\Debug\WebApplication1.csprojResolveAssemblyReference.cache
+C:\WIP\Beginning HTML 5 Game Development With Quintus\QuintusShooter\WebApplication1\obj\Debug\WebApplication1.dll
+C:\WIP\Beginning HTML 5 Game Development With Quintus\QuintusShooter\WebApplication1\obj\Debug\WebApplication1.pdb
+D:\pluralsight\Exercise_Files\5-beg-html-game-m5-enemy-exercise-files\demos\after\QuintusShooter\WebApplication1\bin\WebApplication1.dll.config
+D:\pluralsight\Exercise_Files\5-beg-html-game-m5-enemy-exercise-files\demos\after\QuintusShooter\WebApplication1\bin\WebApplication1.dll
+D:\pluralsight\Exercise_Files\5-beg-html-game-m5-enemy-exercise-files\demos\after\QuintusShooter\WebApplication1\bin\WebApplication1.pdb
+D:\pluralsight\Exercise_Files\5-beg-html-game-m5-enemy-exercise-files\demos\after\QuintusShooter\WebApplication1\obj\Debug\WebApplication1.dll
+D:\pluralsight\Exercise_Files\5-beg-html-game-m5-enemy-exercise-files\demos\after\QuintusShooter\WebApplication1\obj\Debug\WebApplication1.pdb
+D:\pluralsight\Exercise_Files\5-beg-html-game-m5-enemy-exercise-files\demos\after\QuintusShooter\WebApplication1\obj\Debug\WebApplication1.csprojResolveAssemblyReference.cache

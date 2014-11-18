@@ -1,0 +1,10 @@
+D:\pluralsight\Exercise_Files\5-beg-html-game-m5-enemy-exercise-files\demos\after\QuintusShooter\WebApplication1\bin\WebApplication1.dll.config
+D:\pluralsight\Exercise_Files\5-beg-html-game-m5-enemy-exercise-files\demos\after\QuintusShooter\WebApplication1\bin\WebApplication1.dll
+D:\pluralsight\Exercise_Files\5-beg-html-game-m5-enemy-exercise-files\demos\after\QuintusShooter\WebApplication1\bin\WebApplication1.pdb
+D:\pluralsight\Exercise_Files\5-beg-html-game-m5-enemy-exercise-files\demos\after\QuintusShooter\WebApplication1\obj\Debug\WebApplication1.dll
+D:\pluralsight\Exercise_Files\5-beg-html-game-m5-enemy-exercise-files\demos\after\QuintusShooter\WebApplication1\obj\Debug\WebApplication1.pdb
+D:\game_gasing\GasingBawang\WebApplication1\bin\WebApplication1.dll.config
+D:\game_gasing\GasingBawang\WebApplication1\bin\WebApplication1.dll
+D:\game_gasing\GasingBawang\WebApplication1\bin\WebApplication1.pdb
+D:\game_gasing\GasingBawang\WebApplication1\obj\Debug\WebApplication1.dll
+D:\game_gasing\GasingBawang\WebApplication1\obj\Debug\WebApplication1.pdb
